@@ -7,6 +7,6 @@ This to test new paragraph!
 
 Resume:
 - Formation
-- Computer and Technical knownledje
+- Computer and Technical knownledge
 - Projects and Achievements
 - Experience
